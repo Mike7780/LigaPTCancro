@@ -6,28 +6,28 @@
                "name": "Caminhada Solidária",
                "description":"LALALALALALA",
                "image":"https://raw.githubusercontent.com/PakistanMaster/HomeFoundation/master/ParkHelper/ParkImages/Jardim%20Publico%201.jpg",
-               "data":"30-01-2020"
+               "date":"30-01-2020"
           },
           {
                "id":2,
                "name": "Caminhada Solidária",
                "description":"LALALALALALA",
                "image":"https://raw.githubusercontent.com/PakistanMaster/HomeFoundation/master/ParkHelper/ParkImages/Jardim%20Publico%201.jpg",
-               "data":"30-01-2020"
+               "date":"30-01-2020"
           },
           {
                "id":3,
                "name": "Caminhada Solidária",
                "description":"LALALALALALA",
                "image":"https://raw.githubusercontent.com/PakistanMaster/HomeFoundation/master/ParkHelper/ParkImages/Jardim%20Publico%201.jpg",
-               "data":"30-01-2020"
+               "date":"30-01-2020"
           },
           {
                "id":4,
                "name": "Caminhada Solidária",
                "description":"LALALALALALA",
                "image":"https://raw.githubusercontent.com/PakistanMaster/HomeFoundation/master/ParkHelper/ParkImages/Jardim%20Publico%201.jpg",
-               "data":"30-01-2020"
+               "date":"30-01-2020"
           }
      ]
 }
