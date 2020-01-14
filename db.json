@@ -11,28 +11,28 @@
           {
                "id":2,
                "name": "Doar Sangue",
-               "description":"Evento de recolha de sangue com objetivo de ajudar pessoas hospitalizadas em tratamento.",
+               "description":"Evento de recolha de sangue para ajudar pessoas hospitalizadas em tratamento. Temos como objetivo recolher até 5 litros de cada tipo de Sangue, contamos com a vossa ajuda.",
                "image":"https://raw.githubusercontent.com/Mike7780/LigaPTCancroImages/master/doarsangue.jpg",
                "date":"23-02-2020"
           },
           {
                "id":3,
                "name": "Conferência",
-               "description":"Esta conferência será realizada pelas 15:00 no âmbito de informar e aconselhar as pessoas em relação ao Cancro da Mama.",
+               "description":"Esta conferência tem o âmbito de informar e aconselhar as pessoas em relação ao Cancro da Mama. Esta conferência será realizada pelas 15:00 no centro de saúde Castro Verde.",
                "image":"https://raw.githubusercontent.com/Mike7780/LigaPTCancroImages/master/conferencia.jpg",
                "date":"15-03-2020"
           },
           {
                "id":4,
                "name": "Rastreio",
-               "description":"Rastreio e diagnóstico da situação da pessoa.",
+               "description":"Rastreio e diagnóstico da situação da pessoa. Este rastreio será gratuito e serão disponibilizados os dados na hora junto com uma informação detalhada para cada pessoa e cada situação.",
                "image":"https://raw.githubusercontent.com/Mike7780/LigaPTCancroImages/master/rastreiomama.jpg",
                "date":"19-04-2020"
           },
           {
                "id":5,
                "name": "Recolha de Produtos",
-               "description":"Evento a ser realizado pelo âmbito da Liga do Cancro da Mama. Caminhada será realizada em torno da vila de Castro Verde pelas 10:00h.Evento a ser realizado pelo âmbito da Liga do Cancro da Mama. Caminhada será realizada em torno da vila de Castro Verde pelas 10:00h.",
+               "description":"TestingThreads.",
                "image":"https://raw.githubusercontent.com/PakistanMaster/HomeFoundation/master/ParkHelper/ParkImages/Jardim%20Publico%201.jpg",
                "date":"25-04-2020"
           }
