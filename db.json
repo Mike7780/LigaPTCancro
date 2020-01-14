@@ -28,6 +28,13 @@
                "description":"LALALALALALA",
                "image":"https://raw.githubusercontent.com/PakistanMaster/HomeFoundation/master/ParkHelper/ParkImages/Jardim%20Publico%201.jpg",
                "date":"30-01-2020"
+          },
+          {
+               "id":5,
+               "name": "Caminhada Solidária",
+               "description":"Evento a ser realizado pelo âmbito da Liga do Cancro da Mama. Caminhada será realizada em torno da vila de Castro Verde pelas 10:00h.Evento a ser realizado pelo âmbito da Liga do Cancro da Mama. Caminhada será realizada em torno da vila de Castro Verde pelas 10:00h.",
+               "image":"https://raw.githubusercontent.com/PakistanMaster/HomeFoundation/master/ParkHelper/ParkImages/Jardim%20Publico%201.jpg",
+               "date":"30-01-2020"
           }
      ]
 }
