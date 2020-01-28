@@ -48,7 +48,7 @@
                "id":1,
                "userId":1,
                "activityName":"Doar Sangue",
-               "quantia":"20"
+               "quantia":"20",
                "donateMessage":"Excelente atendimento."
           }
      ],
@@ -56,9 +56,9 @@
      [
           {
                "id":1,
-               "fullName":"Miguel Regateiro,
-               "address":"Castro Verde,
-               "email":"miguelregateiro@gmail.com,
+               "fullName":"Miguel Regateiro",
+               "address":"Castro Verde",
+               "email":"miguelregateiro@gmail.com",
                "password":"123"
           }
      ]
